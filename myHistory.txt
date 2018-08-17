@@ -1,0 +1,115 @@
+    1  ls
+    2  mkdir git
+    3  cd git
+    4  git clone https://github.com/w1ndblow/files
+    5  touch ex_file
+    6  ls -la 
+    7  mkdir mysuperrepo
+    8  mkdir mysuperrepo
+    9  pwd
+   10  cd ~
+   11  cd /all
+   12  cd /home
+   13  cd ~
+   14  cd ./
+   15  cls
+   16  ls
+   17  cd tmp
+   18  ls
+   19  mkdir mysuperrepo
+   20  cd mysuperrepo/
+   21  git init --bare
+   22  git status
+   23  git init / git init --bare
+   24  git status
+   25  git init
+   26  echo 'test' > preference.txt
+   27  git status
+   28  git config --global user.mail 'lenoska83@mail.tu'
+   29  git config --global user.mail 'lenoska83@mail.ru'
+   30  git config --global user.name 'leno'
+   31  git status
+   32  git add preference.txt 
+   33  git status
+   34  git commit
+   35  git config --global user.mail 'lenoska83@mail.ru'
+   36  git config --global user.name 'leno'
+   37  git commit
+   38  git config --global user.email 'lenoska83@mail.ru'
+   39  git config --global user.name 'leno'
+   40  git commit
+   41  git commit -m 'new pref file'
+   42  pwd
+   43  git remote add origin 
+   44  Людмила@DESKTOP-A09NK8M MINGW64 ~/git/files (master)
+   45  $ ./file_name.sh
+   46  git remote add origin https://github.com/83Lena/workshop_ekb.git
+   47  git remote
+   48  git remote show origin 
+   49  git fetch origin 
+   50  git merge origin/master 
+   51  git merge origin/master --allow-unrelated-histories 
+   52  cd ~
+   53  ls
+   54  ~/.ssh
+   55  ssh-keygen
+   56  mkdir .ssh
+   57  cd ssh
+   58  cd .ssh
+   59  ls
+   60  ssh-key
+   61  ssh-keygen
+   62  ssh-keygen
+   63  ls -la
+   64  cat github.pub 
+   65  ды
+   66  ls
+   67  vi config
+   68  cat config 
+   69  git remote add alfa git@github.com:83Lena/workshop_ekb.git
+   70  ls
+   71  git remote add alfa git@github.com:83Lena/workshop_ekb.git
+   72  cd ./
+   73  ccd ~
+   74  cd ~
+   75  ls
+   76  cd tmp
+   77  cd /tmp/
+   78  ls
+   79  cd mysuperrepo/
+   80  ls
+   81  git remote add alfa git@github.com:83Lena/workshop_ekb.git
+   82  git show 
+   83  git diff
+   84  ls
+   85  git remote add alfa git@github.com:83Lena/workshop_ekb.git
+   86  git fetch alfa
+   87  vi preference.txt 
+   88  git commit -am 'Done' 
+   89  git push alfa
+   90  cd ~
+   91  ls
+   92  cd git/
+   93  ls
+   94  cd files/
+   95  ls
+   96  cd ~/
+   97  ls
+   98  cd tmp/
+   99  cd /tmp/
+  100  ls
+  101  cd /mys
+  102  cd mysuperrepo/
+  103  cd ./
+  104  cd /tmp
+  105  ls
+  106  cd mysuperrepo/
+  107  vi someFile
+  108  git add.
+  109  git add .
+  110  ls
+  111  git commit -m someFile 
+  112  git push 
+  113  git push --set-upstream origin master
+  114  history
+  115  history > myHistory.txt
